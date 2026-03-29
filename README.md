@@ -140,9 +140,9 @@ ZIP dosyası tamamen tarayıcı tarafında oluşturulur (JSZip + file-saver), ba
 
 ---
 
-## Çıktı Güvenilirliği İçin Yapılanlar
+## Halüsinasyon Önleme ve Çıktı Güvenilirliği
 
-Yapay zeka modelleri istenmeyen, hatalı veya uydurma çıktı üretebilir. Bu projedeki her katman bu sorunu farklı bir açıdan ele alır:
+Yapay zeka modelleri gerçek olmayan, hatalı veya anlamsız çıktı üretebilir (halüsinasyon). Bu projede her katman bu sorunu farklı bir açıdan ele alır:
 
 | Yöntem | Ne Yapıyor | Nerede |
 |--------|-----------|--------|
