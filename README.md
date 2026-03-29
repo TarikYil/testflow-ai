@@ -252,5 +252,4 @@ npm run dev
 | `MONGO_URL` | `mongodb://localhost:27017/testflow` | MongoDB bağlantı adresi |
 | `MONGO_DB` | `testflow` | Veritabanı adı |
 | `ALLOWED_ORIGINS` | `http://localhost:3000` | CORS izinli origin'ler (virgülle ayrılmış) |
-<<<<<<< HEAD
 #
