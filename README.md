@@ -2,6 +2,8 @@
 
 Form tanımlarından otomatik olarak **Playwright** ve **Selenium** test kodu üreten, yapay zeka destekli bir web uygulamasıdır. Kullanıcı bir HTML formu, JSON alan tanımı veya manuel alan listesi girer; sistem bu girdiyi analiz eder, Groq API üzerinden gerçek zamanlı test kodu üretir ve üretilen kodu doğrulayarak kullanıcıya sunar.
 
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/1641aa1e-d5b7-4e90-b859-ecd1578a4cdc" />
+
 ---
 
 ## Neden Bu Teknolojiler?
