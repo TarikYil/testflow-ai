@@ -253,8 +253,4 @@ npm run dev
 | `MONGO_DB` | `testflow` | Veritabanı adı |
 | `ALLOWED_ORIGINS` | `http://localhost:3000` | CORS izinli origin'ler (virgülle ayrılmış) |
 <<<<<<< HEAD
-#   t e s t f l o w - a i  
- 
-=======
 #
->>>>>>> 0f778e8cefed10f0bdede7556a696dd322027976
